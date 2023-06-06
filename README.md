@@ -58,3 +58,4 @@ W = P·t = 3KW·2h = 6KWh
 
 ![Καταγραφή](https://user-images.githubusercontent.com/115735803/207915981-8100b287-a433-4b65-8519-d39444bbb3bf.PNG)
 [Υλικά ιδέας (1).xlsx](https://github.com/VasiaGiorgara/GreenHome/files/10238862/1.xlsx)
+
